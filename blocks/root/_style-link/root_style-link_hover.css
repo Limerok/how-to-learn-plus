@@ -1,0 +1,6 @@
+.root_style-link_hover{
+  transition: 0.4s;
+}
+.root_style-link_hover:hover{
+  opacity: 0.7;
+}
