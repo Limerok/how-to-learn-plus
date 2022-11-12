@@ -7,7 +7,6 @@
 @import url(../blocks/root/root.css);
 @import url(../blocks/root/_list-style-type/root_list-style-type_none.css);
 @import url(../blocks/root/_style/root_style_reset.css);
-@import url(../blocks/root/_style-link/root_style-link_hover.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/page/__header/page__header.css);
@@ -20,6 +19,7 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/_hover/header__link_hover.css);
 @import url(../blocks/header/__link-arrow/header__link-arrow.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/main-illustration/main-illustration.css);
@@ -72,6 +72,7 @@
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__link/_hover/feynman__link_hover.css);
 
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
@@ -84,6 +85,7 @@
 @import url(../blocks/khan/__book-container-pic/khan__book-container-pic.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
+@import url(../blocks/khan/__buy-link/_hover/khan__buy-link_hover.css);
 
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/content/__digits/content__digits.css);
@@ -112,6 +114,7 @@
 @import url(../blocks/content/__resources/_margin-bottom/content__resources_margin-bottom_l.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
+@import url(../blocks/resources/__link/_hover/resources__link_hover.css);
 @import url(../blocks/resources/__link-image/resouces__link-image.css);
 
 @import url(../blocks/footer/footer.css);
@@ -124,6 +127,7 @@
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__column-link/_hover/footer__column-link_hover.css);
 @import url(../blocks/footer/__columns/_content/footer__columns_content_social.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
