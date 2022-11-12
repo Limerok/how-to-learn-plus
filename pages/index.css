@@ -111,7 +111,7 @@
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__link/_hover/resources__link_hover.css);
-@import url(../blocks/resources/__link-image/resouces__link-image.css);
+@import url(../blocks/resources/__link-image/resources__link-image.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/_min-height/footer_min-height.css);
