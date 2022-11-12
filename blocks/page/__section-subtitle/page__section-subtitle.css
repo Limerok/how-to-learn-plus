@@ -1,4 +1,6 @@
 .page__section-subtitle{
+  margin: 0;
+  padding: 0;
   position: relative;
   width: 60%;
   text-align: center;
