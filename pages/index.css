@@ -1,6 +1,9 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
 @import url(../blocks/rotation/rotation.css);
 
-@import url(../vendor/normalize.css);
+
 @import url(../blocks/root/root.css);
 @import url(../blocks/root/_list-style-type/root_list-style-type_none.css);
 @import url(../blocks/root/_style/root_style_reset.css);
