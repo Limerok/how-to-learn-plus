@@ -11,6 +11,7 @@
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__header/_margin-bottom/page__header_margin-bottom_l.css);
 @import url(../blocks/page/__block/page__block.css);
 
 @import url(../blocks/logo/logo.css);
@@ -27,6 +28,7 @@
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/description/description.css);
+@import url(../blocks/content/__description/_margin-bottom/content__description_margin-bottom_l.css);
 @import url(../blocks/content/__description/content__description.css);
 @import url(../blocks/content/_flex/content_flex_center.css);
 @import url(../blocks/two-columns/two-columns.css);
@@ -38,9 +40,11 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
 @import url(../blocks/techniques/techniques.css);
+@import url(../blocks/content/__techniques/content__techniques.css);
 @import url(../blocks/techniques/_width/techniques_width_l.css);
 @import url(../blocks/techniques/_flex/techniques_flex.css);
 @import url(../blocks/techniques/_margin/techniques_margin_auto.css);
+@import url(../blocks/content/__techniques/_margin-bottom/content__techniques_margin-bottom_l.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/page/__section-title/page__section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -57,10 +61,13 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 
 @import url(../blocks/oakley/oakley.css);
-@import url(../blocks/page/__block/_padding-top/page__block_padding-top_xl.css);
-@import url(../blocks/page/__block/_padding-bottom/page__block_padding-bottom_l.css);
+@import url(../blocks/content/__oakley/content__oakley.css);
+@import url(../blocks/content/__oakley/_padding-bottom/content__oakley_padding-bottom_l.css);
+@import url(../blocks/content/__oakley/_padding-top/content__oakley_padding-top_xl.css);
 
 @import url(../blocks/feynman/feynman.css);
+@import url(../blocks/content/__feynman/content__feynman.css);
+@import url(../blocks/content/__feynman/_margin-bottom/content__feynman_margin-bottom_l.css);
 @import url(../blocks/feynman/_position/feynman_position_relative.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
@@ -79,6 +86,8 @@
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 
 @import url(../blocks/digits/digits.css);
+@import url(../blocks/content/__digits/content__digits.css);
+@import url(../blocks/content/__digits/_margin-bottom/content__digits_margin-bottom_l.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/digits/__table/digits__table.css);
 @import url(../blocks/table/__cell/table__cell.css);
@@ -88,6 +97,8 @@
 
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/page/__kaufman/page__kaufman.css);
+@import url(../blocks/content/__kaufman/content__kaufman.css);
+@import url(../blocks/content/__kaufman/_margin-bottom/content__kaufman_margin-bottom_l.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
@@ -97,6 +108,8 @@
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 @import url(../blocks/resources/resources.css);
+@import url(../blocks/content/__resources/content__resources.css);
+@import url(../blocks/content/__resources/_margin-bottom/content__resources_margin-bottom_l.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__link-image/resouces__link-image.css);
@@ -114,5 +127,4 @@
 @import url(../blocks/footer/__columns/_content/footer__columns_content_social.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
-@import url(../blocks/page/__block/_margin-bottom/page__block_margin-bottom_l.css);
 @import url(../blocks/page/page.css);
