@@ -1,0 +1,6 @@
+.footer__link-point{
+  margin-bottom: 10px;
+}
+.footer__link-point:last-child{
+  margin-bottom: 16px;
+}
