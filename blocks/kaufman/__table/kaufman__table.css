@@ -1,11 +1,11 @@
-.resources__logo-zone{
+.kaufman__table{
   padding: 0;
   list-style-type: none;
+  position: relative;
   width: 1100px;
   margin: 0 auto;
-  padding-top: 80px;
-  padding-bottom: 117px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
-  align-items: center;
+  z-index: 2;
 }

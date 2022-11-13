@@ -4,10 +4,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-top: 100px;
   padding-bottom: 400px;
   background-image: url(../../images/feynman.png);
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   background-position: bottom left;
   background-size: 867px 637px;
 }
