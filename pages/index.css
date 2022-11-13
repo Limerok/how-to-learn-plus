@@ -39,7 +39,7 @@
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 
-@import url(../blocks/video/video.css);/*Возможно удалить*/
+@import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframe/_margin-left/video__iframe_margin-left_s.css);
@@ -65,9 +65,9 @@
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 
-@import url(../blocks/digits/digits.css);/*Возможно удалить*/
+@import url(../blocks/digits/digits.css);
 @import url(../blocks/digits/_margin-bottom/digits_margin-bottom_l.css);
-@import url(../blocks/table/table.css);/*Возможно удалить*/
+@import url(../blocks/table/table.css);
 @import url(../blocks/digits/__table/digits__table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
@@ -85,7 +85,7 @@
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
-@import url(../blocks/resources/resources.css);/*Возможно удалить*/
+@import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/_margin-bottom/resources_margin-bottom_l.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
@@ -98,12 +98,12 @@
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__column/_content/footer__column_content_info.css);/*Возможно удалить*/
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__link-point/footer__link-point.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
-@import url(../blocks/footer/__column/_content/footer__column_content_social.css);/*Возможно удалить*/
+@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 
 @import url(../blocks/link/link.css);
